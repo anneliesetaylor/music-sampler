@@ -1,0 +1,51 @@
+
+body {
+  font-family: 'Raleway', 'Arial Narrow', sans-serif;
+  background: linear-gradient(to bottom, #100F12 40%, #6F2443);
+}
+
+h1, h3 {
+  font-family: 'Rock Salt', 'Futura', 'Trebuchet MS', Arial, sans-serif;
+}
+
+h1 {
+  padding-top: 0.5em;
+}
+
+#about_rex {
+  padding: 1em 2em;
+  font-size: 1.4em;
+}
+
+h3 {
+  padding:0.5em 0;
+}
+
+#singles_title {
+  padding-top: 2em;
+}
+
+#singles {
+  padding-bottom: 4em;
+}
+
+.albumcovers {
+  font-size: 1.4em;
+}
+
+.albumcovers p {
+  padding: 0.5em 0 0;
+}
+
+.audio-div {
+  padding-bottom: 0.5em;
+}
+
+
+.jumbotron {
+  margin: 0;
+  padding: 1.5em 1.5em 1em;
+}
+
+
+/*--PSEUDO CLASSES--*/
